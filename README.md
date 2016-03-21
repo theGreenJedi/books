@@ -1,5 +1,7 @@
 # books
 
+Initial Commit of Books Read
+
 Adams, John Joseph, ed. Wastelands - Stories of the Apocalypse. United States: Titan Books (UK), 27 Jan. 2015. Print.
 
 Anders, Lou. Fast Forward 1: Future Fiction from the Cutting Edge, Vol. 1. United States: Prometheus Books, 5 Feb. 2007. Print. 
@@ -231,5 +233,9 @@ Emmett Dulaney, CompTIA A+: Complete Fast Pass ; [concise, focused, and afford
 Hitchins C and Hitchens C, The Portable Atheist: Essential Readings for the Non-Believer (Perseus Running [distributor] 2007)
 
 Christopher Hitchins and Christopher Hitchens, The Portable Atheist: Essential Readings for the Non-Believer (Perseus Running [distributor] 2007)
+
+Books Read After March 2016 (Different Format)
+
+
 
 
