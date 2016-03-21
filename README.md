@@ -1,6 +1,6 @@
 # books
 
-Initial Commit of Books Read
+Initial Commit of Books Read (Alphabetical by Author for 2015)
 
 Adams, John Joseph, ed. Wastelands - Stories of the Apocalypse. United States: Titan Books (UK), 27 Jan. 2015. Print.
 
