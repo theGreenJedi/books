@@ -239,6 +239,8 @@ Books Read After March 2016 (Different Format)
 Little Man, What Now? Hans Fallada (1933) March 18, 2016
 Great (movie idea?)
 
+On Intelligence Jeff Hawkins (2004) March 22, 2016
+
 
 
 
