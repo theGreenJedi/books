@@ -2,245 +2,813 @@
 
 Initial Commit of Books Read (Alphabetical by Author for 2015)
 
-Adams, John Joseph, ed. Wastelands - Stories of the Apocalypse. United States: Titan Books (UK), 27 Jan. 2015. Print.
+I initially started because I would end up ordering a book I had previously read. So I started to keep notes of books read. Then I had the bright idea of writing a book report for each book (which would help to more 'digest' the contents.) Both of these ideas however, (Keeping notes, writing book reports)
+ended up cutting into my reading time. (Sacrilege!) So they went by the wayside. I had got in the habit of recording books read though, and so I continue to do that. This current incarnation of this list began early 2015, thru the present.
+This list has gone through some style changes, depnding on whatever I software I use to record the titles. 
 
-Anders, Lou. Fast Forward 1: Future Fiction from the Cutting Edge, Vol. 1. United States: Prometheus Books, 5 Feb. 2007. Print. 
+# While I shudder at curating this list (making reports, notes, etc) If anyone has any interest in any of the following titles, hit me up, and I'll be glad to give me opinion of them.
 
-Bacigalupi, Paolo, Tobias S Buckell, and J K Drummond. The Alchemist. 1st ed. United States: Subterranean Press, 31 Jan. 2011. Print. 
 
-Bacigalupi, Paolo. Ship Breaker. 1st ed. New York: Little, Brown & Company, 2010. Print. 
+Bacigalupi, P. (2009) The Windup Girl. 1st edn. San Francisco: Night Shade Books.
 
-Bacigalupi, Paolo. The Doubt Factory. United States: Little, Brown & Company, 25 Dec. 2014. Print. 
+Bacigalupi, P. (2010) Ship Breaker. 1st edn. New York: Little, Brown & Company.
 
-Bacigalupi, Paolo. The Drowned Cities. 1st ed. New York: Little, Brown Books for Young Readers, 1 May 2012. Print.
+Adams, J.J. (ed.) (2015) Wastelands - Stories of the Apocalypse. United States: Titan Books (UK).
 
-Bacigalupi, Paolo. The Windup Girl. 1st ed. San Francisco: Night Shade Books, 9 Jan. 2009. Print. 
+Priest, C. (2009) Boneshaker (Clockwork Century Series). New York, USA: Doherty, Tom Associates.
 
-Bacigalupi, Paolo. Zombie Baseball Beatdown. United States: Little, Brown & Company, 10 Sept. 2013. Print. 
+Barry, M. (2004) Jennifer Government. 1st edn. New York: Knopf Doubleday Publishing Group.
 
-Ballard, Phil. JavaScript in 24 Hours, Sams Teach Yourself. United States: Sams Publishing, 9 June 2015. Print. 
+Graedon, A. (2014) The Word Exchange: A Novel. United States: Doubleday Books.
 
-Barry, Max. Jennifer Government. 1st ed. New York: Knopf Doubleday Publishing Group, 2004. Print. 
+Bacigalupi, P. (2012) The drowned cities. 1st edn. New York: Little, Brown Books for Young Readers.
 
-Bear, Greg. War Dogs. United States: Orbit, 21 July 2015. Print. 
+Anders, L. (2007) Fast Forward 1: Future Fiction from the Cutting Edge, Vol. 1. United States: Prometheus Books.
 
-Bunyan, Karl. Build an HTML5 Game: A Developer’s Guide with CSS3 and JavaScript. United States: No Starch Press,US, 31 Mar. 2015. Print. 
+Van Gelder, G. (ed.) (2014) The Very Best of Fantasy & Science Fiction, Volume 2. United States: Tachyon Publications.
 
-Constantine, Storm. Wraeththu (Wraeththu Series #1-3). United States: Doherty, Tom Associates, 1 Nov. 1993. Print.
+Bacigalupi, P. (2014) The Doubt Factory. United States: Little, Brown & Company.
 
-Crockford, Douglas. JavaScript: The Good Parts: Working with the Shallow Grain of JavaScript. 1st ed. United States: O’Reilly Media, Inc, USA, 15 May 2008. Print. 
+Bear, G. (2015) War Dogs. United States: Orbit.
 
-Davis, Joshua. Spare Parts: Four Undocumented Teenagers, One Ugly Robot, and the Battle for the American Dream. 1st ed. United States: Farrar, Straus & Giroux, 1 Dec. 2014. Print. 
+Stirling, S.M. (2004) Dies the fire. New York: New American Library.
 
-Farley, David, and Jez Humble. Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation. 1st ed. United States: Addison-Wesley Educational Publishers, 2010. Print. 
+Miéville, C. and Mieville, C. (2009) The City & The City. 1st edn. New York: Del Rey Ballantine Books.
 
-Flanagan, David. JavaScript: The Definitive Guide. 6th ed. N.p.: O’Reilly Media, 18 Apr. 2011. Web. 9 Nov. 2015. 
+Okorafor, N. (2011) Who Fears Death? United States: Penguin Group (USA).
 
-Flanagan, David. JavaScript: The Definitive Guide: Activate Your Web Pages. 6th ed. United States: O’Reilly Media, Inc, USA, 2011. Print. 
+Bacigalupi, P. (2013) Zombie Baseball Beatdown. United States: Little, Brown & Company.
 
-Freeman, Eric T., and Elisabeth Robson. Head First JavaScript Programming. United States: O’Reilly Media, Inc, USA, Nov. 2013. Print. 
+Lee, C.-R. (2014) On Such a Full Sea. United States: Penguin Group (USA).
 
-Freeman, Eric T, and Elisabeth Robson. Head First JavaScript Programming. 1st ed. N.p.: O’Reilly Media, 26 Mar. 2014. Web. 28 Oct. 2015. 
+Scalzi, J. (2015) Lock in. United States: Thorndike Press.
 
-Geary, David H. Core HTML5 2D Game Programming. United States: Prentice Hall, 11 July 2014. Print. 
+Thomson, A. (1995) The color of distance. 1st edn. New York: Ace Books.
 
-Gelder, Gordon Van, ed. The Very Best of Fantasy & Science Fiction, Volume 2. United States: Tachyon Publications, 30 June 2014. Print. 
+Walton, J. (2006) Farthing. New York: Doherty, Tom Associates.
 
-Gibson, William F. Spook Country. United States: Thorndike Press, 9 Jan. 2008. Print. 
+Constantine, S. (1993) Wraeththu (Wraeththu Series #1-3). United States: Doherty, Tom Associates.
 
-Gibson, William. Neuromancer. United States: Berkley Publishing Corporation,U.S., n.d. Print. 
+Strahan, J. (ed.) (2006) Science Fiction: The Very Best of 2005. United States: Locus Publications.
 
-Gleick, James. The Information: A History, a Theory, a Flood. New York: Knopf Doubleday Publishing Group, 2011. Print.
+Freeman, E.T. and Robson, E. (2014) Head First JavaScript programming. Available at: http://oreilly.com/go/9781449340131-QR (Accessed: 28 October 2015).
 
-Graedon, Alena. The Word Exchange: A Novel. United States: Doubleday Books, 8 Apr. 2014. Print. 
+Flanagan, D. (2011a) JavaScript: The definitive guide. Available at: http://oreilly.com/go/9780596805524-QR (Accessed: 9 November 2015).
 
-Haney-Lopez, Ian, and Ian Haney-López. Dog Whistle Politics: How Coded Racial Appeals Have Reinvented Racism and Wrecked the Middle Class. Oxford: Oxford University Press, 13 Feb. 2014. Print. 
+Crockford, D. (2008) JavaScript: The good parts: Working with the shallow grain of JavaScript. 1st edn. United States: O’Reilly Media, Inc, USA.
 
-Harris, Andy. HTML, XHTML and CSS All-in-One for Dummies. 3rd ed. United States: Wiley, John & Sons, 24 Jan. 2014. Print.
+Bacigalupi, P., Buckell, T.S. and Drummond, J.K. (2011) The alchemist. 1st edn. United States: Subterranean Press.
 
-Harvey, David. The New Imperialism. New York: Oxford University Press, 2 Oct. 2003. Print. 
+Taylor, K. and Smith, B.E. (2015) Getting a web development job for dummies. United States: John Wiley & Sons.
 
-Hofstadter, Douglas r. G.E.B. (Godel, Escher, Bach: An Eternal Golden Braid). N.p.: perseus books, 1999. Print. 
+Pollock, J. (2009) JavaScript, A beginner’s guide, Third edition. 3rd edn. New York: McGraw-Hill Companies, The.
 
-Hofstadter, Douglas r. G.E.B. (Godel, Escher, Bach: An Eternal Golden Braid). N.p.: perseus books, 1999. Print. 
+Nixon, R. (2012) Web developer’s cookbook: More than 300 ready-made PHP, JavaScript, and CSS recipes. New York: Osborne/McGraw-Hill.
 
-Holzner, Steven. Small Business Web Sites Made Easy. 1st ed. New York: McGraw-Hill Companies, The, 1 Mar. 2009. Print.
+Resig, J. and Bibeault, B. (2012) Secrets of the JavaScript Ninja. United States: Manning Publications Company.
 
-Keller, Gary, and Jay Papasan. The ONE Thing: The Surprisingly Simple Truth behind Extraordinary Results. 1st ed. United States: Bard Press TX, 2012. Print. 
+Perry, G.M. (2000) HTML 4.01 weekend crash course (with CD-ROM). United States: Hungry Minds Inc,U.S.
 
-Klein, Naomi. The Shock Doctrine: The Rise of Disaster Capitalism. New York: Metropolitan Books/Henry Holt, 18 Sept. 2007.
+Meloni, J.C. (2014) HTML, CSS, and JavaScript all in One, Sams teach yourself: Covering HTML5, CSS3, and jQuery. United States: Sams Publishing.
 
-Print. Koenig, Andrew, and Barbara E Moo. Accelerated C++: Practical Programming by Example. 6th ed. Boston: Addison-Wesley Educational Publishers, 14 Aug. 2000. Print. 
+Ballard, P. (2015) JavaScript in 24 hours, Sams teach yourself. United States: Sams Publishing.
 
-Krug, Steve. Don’t Make Me Think: A Common Sense Approach to Web Usability. 3rd ed. United States: Pearson Education (US), 24 Dec. 2013. Print. 
+Freeman, E.T. and Robson, E. (2013) Head First JavaScript programming. United States: O’Reilly Media, Inc, USA.
 
-Kurzweil, Ray, and Terry Grossman. Fantastic Voyage: Live Long Enough to Live Forever. United States: Rodale Books, 27 Oct. 2004. Print. 
+McPeak, J. (2010) JavaScript 24-Hour trainer. 1st edn. United States: Wiley, John & Sons.
 
-Kurzweil, Ray, and Terry Grossman. Transcend: Nine Steps to Living Well Forever. United States: Rodale Press, Apr. 2009. Print. 
+McPeak, J. (2015) Beginning JavaScript, 5th edition. United States: John Wiley & Sons.
 
-Kurzweil, Ray. How to Create a Mind: The Secret of Human Thought Revealed. New York, NY: Penguin Books, 27 Aug. 2013. Print. 
+Farley, D. and Humble, J. (2010) Continuous delivery: Reliable software releases through build, test, and deployment automation. 1st edn. United States: Addison-Wesley Educational Publishers.
 
-Kurzweil, Ray. Singularity Is near (the): When Humans Transcend Biology. New York: Viking/Penguin Group, 22 Sept. 2005. Print. 
+Holzner, S. (2009) Small business web sites made easy. 1st edn. New York: McGraw-Hill Companies, The.
 
-Kurzweil, Raymond, et al. The Ten Percent Solution for a Healthy Life: How to Eliminate Virtually All Risk of Heart Disease and Cancer. New York: Crown Publications, 1 Jan. 1993. Print. 
+Kyrnin, J. (2014) Responsive web design in 24 hours, Sams teach yourself. United States: Sams Publishing.
 
-Kyrnin, Jennifer. Responsive Web Design in 24 Hours, Sams Teach Yourself. United States: Sams Publishing, 9 Dec. 2014. Print. 
+Harris, A. (2014) HTML, XHTML and CSS All-in-One for dummies. 3rd edn. United States: Wiley, John & Sons.
 
-Lee, Chang-Rae. On Such a Full Sea. United States: Penguin Group (USA), 7 Jan. 2014. Print. 
+Davis, J. (2014) Spare parts: Four Undocumented teenagers, One ugly robot, and the battle for the American dream. 1st edn. United States: Farrar, Straus & Giroux.
 
-Lief, Jacob, and Andrea Thompson. I Am Because You Are: How the Spirit of Ubuntu Inspired an Unlikely Friendship and Transformed a Community. United States: Rodale Press, 1 June 2015. Print. 
+Peterson, C. (2014) Learning responsive web design: A beginner’s guide. 1st edn. United States: O’Reilly Media, Inc, USA.
 
-McConnell, Steve C. Code Complete: [a Practical Handbook of Software Construction]. 2nd ed. United States: Microsoft Press,U.S., 9 June 2004. Print. 
+McGrath, M. (2015) Coding for beginners in easy steps: Grasp the basics of programming. United Kingdom: In Easy Steps.
 
-McGrath, Mike. Coding for Beginners in Easy Steps: Grasp the Basics of Programming. United Kingdom: In Easy Steps, 15 May 2015. Print. 
+Geary, D.H. (2014) Core HTML5 2D game programming. United States: Prentice Hall.
 
-McPeak, Jeremy. Beginning JavaScript, 5th Edition. United States: John Wiley & Sons, 24 Apr. 2015. Print. 
+Bunyan, K. (2015) Build an HTML5 game: A developer’s guide with CSS3 and JavaScript. United States: No Starch Press,US.
 
-McPeak, Jeremy. JavaScript 24-Hour Trainer. 1st ed. United States: Wiley, John & Sons, 3 Dec. 2010. Print. 
+Thomas, D. and Hunt, A. (2000) The pragmatic programmer: From Journeyman to master. Reading, MA: Addison-Wesley Educational Publishers.
 
-Meloni, Julie C. HTML, CSS, and JavaScript All in One, Sams Teach Yourself: Covering HTML5, CSS3, and jQuery. United States: Sams Publishing, 1 Oct. 2014. Print. 
+Lief, J. and Thompson, A. (2015) I am because you are: How the spirit of Ubuntu inspired an unlikely friendship and transformed a community. United States: Rodale Press.
 
-Minnick, Chris, Eva Holland, and Nikhil Abraham. Coding with JavaScript for Dummies. United States: John Wiley & Sons, 12 June 2015. Print. 
+Willard, W. (2013) HTML5 A beginners guide 5/E. 5th edn. United States: McGraw-Hill Professional Publishing.
 
-Mischook, Stefan. Web Design Start Here: A No-Nonsense, Jargon Free Guide to the Fundamentals of Web Design. United States: How Books, 21 July 2015. Print.
+Mueller, J.P. and Henderson, E. (2013) CSS3 for dummies. United States: John Wiley & Sons.
 
-Miéville, China, and China Mieville. The City & The City. 1st ed. New York: Del Rey Ballantine Books, 2009. Print.
+Minnick, C., Holland, E. and Abraham, N. (2015) Coding with JavaScript for dummies. United States: John Wiley & Sons.
 
-Mueller, John Paul, and Ed Henderson. CSS3 for Dummies. United States: John Wiley & Sons, 10 Dec. 2013. Print.
+Flanagan, D. (2011b) JavaScript: The definitive guide: Activate your web pages. 6th edn. United States: O’Reilly Media, Inc, USA.
 
-Negus, Christopher. Linux Bible (revised). United States: John Wiley & Sons, 15 May 2015. Print.
+Mischook, S. (2015) Web design start here: A no-nonsense, jargon free guide to the fundamentals of web design. United States: How Books.
 
-Nisan, Noam, and Shimon Schocken. The Elements of Computing Systems: Building a Modern Computer from First Principles (history of Computing S.). Cambridge, MA: The MIT Press, 22 Feb. 2008. Print.
+Hofstadter, D. r. (1999) G.E.B.  (Godel, Escher, Bach: An eternal golden braid). perseus books.
 
-Nixon, Robin. Web Developer’s Cookbook: More than 300 Ready-Made PHP, JavaScript, and CSS Recipes. New York: Osborne/McGraw-Hill, 1 May 2012. Print.
+Keller, G. and Papasan, J. (2012) The ONE thing: The surprisingly simple truth behind extraordinary results. 1st edn. United States: Bard Press TX.
 
-Okorafor, Nnedi. Who Fears Death? United States: Penguin Group (USA), 7 June 2011. Print.
+Posamentier, A.S. and Lehmann, I. (2013) Magnificent mistakes in mathematics. United States: Prometheus Books.
 
-Palahniuk, Chuck. Fight Club: A Novel. New York: Norton, W. W. & Company, 21 Sept. 2005. Print.
+Negus, C. (2015) Linux bible (revised). United States: John Wiley & Sons.
 
-Perry, Greg M. HTML 4.01 Weekend Crash Course (with CD-ROM). United States: Hungry Minds Inc,U.S., 1 Aug. 2000. Print.
+Ward, B. (2004) How Linux works: What every super user should know. San Francisco: No Starch Press,US.
 
-Peterson, Clarissa. Learning Responsive Web Design: A Beginner’s Guide. 1st ed. United States: O’Reilly Media, Inc, USA, 18 July 2014. Print.
+Krug, S. (2013) Don’t make me think: A common sense approach to web usability. 3rd edn. United States: Pearson Education (US).
 
-Pollock, John. JavaScript, A Beginner’s Guide, Third Edition. 3rd ed. New York: McGraw-Hill Companies, The, 1 Oct. 2009. Print.
+Nisan, N. and Schocken, S. (2008) The elements of computing systems: Building a modern computer from First principles (history of computing S.). Cambridge, MA: The MIT Press.
 
-Posamentier, Alfred S, and Ignmar Lehmann. Magnificent Mistakes in Mathematics. United States: Prometheus Books, 13 Aug. 2013. Print.
+Wilson, M. (2012) Building Node applications with MongoDB and backbone. Available at: http://oreilly.com/go/9781449337391-QR (Accessed: 3 February 2016).
 
-Powers, Shelly. JavaScript Cookbook. United States: O’Reilly Media, Inc, USA, 10 Feb. 2015. Print.
+Spivak, M. (1995) The hitchhiker’s guide to calculus: A calculus course companion. Washington, DC: Mathematical Association of America.
 
-Priest, Cherie. Boneshaker (Clockwork Century Series). New York, USA: Doherty, Tom Associates, 20 Oct. 2009. Print.
+Koenig, A. and Moo, B.E. (2000) Accelerated C++: Practical programming by example. 6th edn. Boston: Addison-Wesley Educational Publishers.
 
-Resig, John, and Bear Bibeault. Secrets of the JavaScript Ninja. United States: Manning Publications Company, 28 Dec. 2012. Print.
+Powers, S. (2015) JavaScript cookbook. United States: O’Reilly Media, Inc, USA.
 
-Scalzi, John. Lock in. United States: Thorndike Press, 1 Apr. 2015. Print.
+McConnell, S.C. (2004) Code complete: [a practical handbook of software construction]. 2nd edn. United States: Microsoft Press,U.S.
 
-Shirky, Clay. Here Comes Everybody: The Power of Organizing without Organizations. New York: Penguin Group (USA), 28 Feb. 2008. Print.
+Gibson, W.F. (2008) Spook country. United States: Thorndike Press.
 
-Silberman, Steve. Neurotribes: The Legacy of Autism and the Future of Neurodiversity. United States: Avery Publishing Group, 25 Aug. 2015. Print.
+Silberman, S. (2015) Neurotribes: The legacy of autism and the future of Neurodiversity. United States: Avery Publishing Group.
 
-Spivak, Michael. The Hitchhiker’s Guide to Calculus: A Calculus Course Companion. Washington, DC: Mathematical Association of America, 30 Jan. 1995. Print.
+Klein, N. (2007) The shock doctrine: The rise of disaster capitalism. New York: Metropolitan Books/Henry Holt.
 
-Steffen, Alex, et al. Worldchanging: A User’s Guide for the 21st Century. 2nd ed. New York: Abrams, Harry N., 30 Mar. 2011. Print.
+Palahniuk, C. (2005) Fight club: A novel. New York: Norton, W. W. & Company.
 
-Stephenson, Neal. Snow Crash. New York: Bantam Doubleday Dell Publishing Group, 2 May 2000. Print. Stirling, S. M. Dies the Fire. New York: New American Library, 1 July 2004. Print.
+Gibson, W. (no date) Neuromancer. United States: Berkley Publishing Corporation,U.S.
 
-Strahan, Jonathan, ed. Science Fiction: The Very Best of 2005. United States: Locus Publications, 1 July 2006. Print.
+Harvey, D. (2003) The new imperialism. New York: Oxford University Press.
 
-Taylor, Kathleen, and Bud E. Smith. Getting a Web Development Job for Dummies. United States: John Wiley & Sons, 6 Feb. 2015. Print.
+Gleick, J. (2011) The information: A history, a theory, a flood. New York: Knopf Doubleday Publishing Group.
 
-Thomas, David, and Andrew Hunt. The Pragmatic Programmer: From Journeyman to Master. Reading, MA: Addison-Wesley Educational Publishers, 2000. Print.
+Haney-Lopez, I. and Haney-López, I. (2014) Dog whistle politics: How coded racial appeals have reinvented racism and wrecked the middle class. Oxford: Oxford University Press.
 
-Thomson, Amy. The Color of Distance. 1st ed. New York: Ace Books, 1 Nov. 1995. Print.
+Stephenson, N. (2000) Snow crash. New York: Bantam Doubleday Dell Publishing Group.
 
-Walton, Jo. Farthing. New York: Doherty, Tom Associates, 8 Aug. 2006. Print.
+Shirky, C. (2008) Here comes everybody: The power of organizing without organizations. New York: Penguin Group (USA).
 
-Ward, Brian. How Linux Works: What Every Super User Should Know. San Francisco: No Starch Press,US, 1 May 2004. Print.
+vonnegut, jr., kurt (no date) player piano. .
 
-Willard, Wendy. HTML5 A Beginners Guide 5/E. 5th ed. United States: McGraw-Hill Professional Publishing, 1 Apr. 2013. Print.
+Kurzweil, R. (2013) How to create a mind: The secret of human thought revealed. New York, NY: Penguin Books.
 
-Wilson, Mike. Building Node Applications with MongoDB and Backbone. 2nd ed. N.p.: O’Reilly Media, 11 Dec. 2012. Web. 3 Feb. 2016.
+Kurzweil, R. and Grossman, T. (2009) Transcend: Nine steps to living well forever. United States: Rodale Press.
 
-Vonnegut, jr., kurt. Player Piano. n.d. Print. 
+Kurzweil, R. (2005) Singularity is near (the): When humans transcend biology. New York: Viking/Penguin Group.
 
-Citations, Quotes & Annotations Adams, John Joseph, ed.
+Kurzweil, R., Flier, S.R., Bauer, R. and Kurzweil, P. (1993) The Ten percent solution for a healthy life: How to eliminate virtually all risk of heart disease and cancer. New York: Crown Publications.
 
-Wastelands - Stories of the Apocalypse. United States: Titan Books (UK), 27 Jan. 2015. Print.
+Steffen, A., Bluestone, C., McKibben, B. and Inc, S. (2011) Worldchanging: A user’s guide for the 21st century. 2nd edn. New York: Abrams, Harry N.
 
-Bortolin M, The dharma of Star wars (1st edn, Wisdom Publications,U.S. 2005) Cairns-Smith AG, The Life Puzzle (1971)
+Kurzweil, R. and Grossman, T. (2004) Fantastic voyage: Live long enough to live forever. United States: Rodale Books.
 
-Cairns-Smith AG, Seven Clues to the Origin of Life (Cambridge University Press 1985)
+Kurzweil, R. (2000) The age of spiritual machines: When computers exceed human intelligence. New York, NY: Penguin Group (USA).
 
-Dennett DC, Breaking the spell: religion as a natural phenomenon (Penguin Books 2006)
+Marcus, G.F. (2008) Kluge: The haphazard construction of the human mind. Boston: Houghton Mifflin Harcourt.
 
-Dulaney E, CompTIA A+: Complete Fast Pass ; [concise, focused, and affordable - the perfect study aid ; review what you need to know for all four ComTIA A+ Exams: CompTIA A+ 220-601(Essentials), CompTIA A+ 220-602 (IT Technician), CompTIA A+ 220-603 (Remote Support (1st edn, Wiley, John & Sons 2006)
+Cormen, T.H., Leiserson, C.E. and Rivest, R.L. (2001) Introduction to Algorithms. Cambridge, MA: McGraw-Hill.
 
-Hitchins C and Hitchens C, The Portable Atheist: Essential Readings for the Non-Believer (Perseus Running [distributor] 2007)
+Osborne, M. and Lambert, K. (2002) Fundamentals of java: Comprehensive, Second edition. 2nd edn. United States: Course Technology.
 
-Hwa T and others, The tao of tai-chi chuan (or Tai ji quan in Pinyin): way to rejuvenation = Tʻai chi chʻüan chih tao Jwing-Ming Y, Yang J-M, and Murray A, Qigong for health and martial arts: exercises and meditation (2nd edn, YMAA Publication Center 1998)
+Marcus, G.F. (2012) Guitar zero: The new musician and the science of learning. New York: Penguin Press HC, The.
 
-Lyden JC, 'Whose Film Is It, Anyway? Canonicity and Authority in Star Wars Fandom' (2012) 80(3) Journal of the American Academy of Religion http://jaar.oxfordjournals.org/content/80/3/775.short accessed 25 September 2015
+Marcus, G. (2004) The birth of the mind: How a tiny number of genes creates the complexities of human thought. New York: Basic Books.
 
-775 McConnell SC, Code complete: a practical handbook of software construction 
+yeomans, W. (1985) 1000 things you never learned in business school. 2nd edn. London: mentor.
 
-Morris GJ, Martial arts madness: light and dark in the esoteric martial arts (Distributed by North Atlantic Books 1999)
+Horowitz, P., Hill, W. and Horowitz, W.H. (1989) The art of electronics. 2nd edn. Cambridge: Cambridge University Press.
 
-Morris G and Glenn M, Shadow strategies of an American ninja master (Distributed to the book trade by Publisher’s Group West 1996)
+Bradbury, R. (2012) Fahrenheit 451: A novel. New York: Simon & Schuster.
 
-Nagel GK, The Tao of teaching: the special meaning of the Tao Te Ching as related to the art and pleasures of teaching (Plume 1999)
+Mason, P. (2016) Post-capitalism: A guide to our future. United States: Farrar, Straus and Giroux.
 
-Powers S, JavaScript cookbook (O’Reilly Media, Inc, USA 2015)
+Oakley, B. (2014) A mind for numbers: How to excel at math and science (even if you flunked algebra). United States: Penguin Group (USA).
 
-Spivak M, The hitchhiker’s guide to calculus (Mathematical Association of America 1995)
+Domingos, P. (2015) The master algorithm: How the quest for the ultimate learning machine will remake our world. United States: Basic Civitas Books.
 
-Staub D, Faith of the Jedi: Lost Wisdom of the Ancient Masters (1st edn, Jossey-Bass Inc.,U.S. 2005)
+Graeber, D. (2010) Debt: The first 5, 000 years. Brooklyn, New York, USA: Melville House Publishing.
 
-Waite AE, the Unknown Philosopher (Rudolf Steiner 1970)
+Dickinson, S. (2015) The traitor Baru Cormorant. United States: Tor Books.
 
-Waite AEE, Hermetic and Alchemical Writings of ‘Paracelsus’ the Great (Kessinger Publishing Co 1992)
+pressfield, steven (2002) the war of art. new york: grand central.
 
-Waite AE and Wait AE, The Real History of the Rosicrucians (Kessinger Publishing Co 1997)
+Barlow, M. (2015) Learning to Love Data science. Available at: http://www.oreilly.com/go/9781491936580-QR (Accessed: 28 April 2016).
 
-Waite AE, the Turba Philosophorum (Kessinger)
+seifer, marc (1998) the life and times of nikola tesla: biography of a genius. 2nd edn. new york: citadel.
 
-Wilson M, Building Node applications with MongoDB and backbone: rapid prototyping and scalable deployment
+Citations, Quotes & Annotations
 
-Yang J-M and Gutheil TG, The Root of Chinese Qigong: Secrets for Health, Longevity and Enlightenment (2nd edn, YMAA Publication Center 1997)
+Bacigalupi, P. (2009) The Windup Girl. 1st edn. San Francisco: Night Shade Books.
 
-Zeek, The Art of Shen Ku: The Ultimate Traveler’s Guide of This Planet - The First Intergalactic Artform of the Entire Universe (1st edn, Penguin Group (USA) 2001)
+ (Bacigalupi, 2009)
 
-hardcore zen monk habits for everyday people (2nd edn, brazos press 2008)
+---
 
-Citations, Quotes & Annotations Bortolin M, The dharma of Star wars (1st edn, Wisdom Publications,U.S. 2005)
+Bacigalupi, P. (2010) Ship Breaker. 1st edn. New York: Little, Brown & Company.
 
-Matthew Bortolin, The dharma of Star wars (1st edn, Wisdom Publications,U.S. 2005)
+ (Bacigalupi, 2010)
 
-Cairns-Smith AG, The Life Puzzle (1971)
+---
 
-A.G. Cairns-Smith, The Life Puzzle (1971)
+Adams, J.J. (ed.) (2015) Wastelands - Stories of the Apocalypse. United States: Titan Books (UK).
 
-Cairns-Smith AG, Seven Clues to the Origin of Life (Cambridge University Press 1985)
+ (Adams, 2015, pp. 75 – 105)
 
-A.G. Cairns-Smith, Seven Clues to the Origin of Life (Cambridge University Press 1985)
+  "People of Sand and Slag Paulo Bacigalupi"
 
-Dennett DC, Breaking the spell: religion as a natural phenomenon (Penguin Books 2006)
+---
 
-Daniel C. Dennett, Breaking the spell: religion as a natural phenomenon (Penguin Books 2006)
+Priest, C. (2009) Boneshaker (Clockwork Century Series). New York, USA: Doherty, Tom Associates.
 
-Dulaney E, CompTIA A+: Complete Fast Pass ; [concise, focused, and affordable - the perfect study aid ; review what you need to know for all four ComTIA A+ Exams: CompTIA A+ 220-601(Essentials), CompTIA A+ 220-602 (IT Technician), CompTIA A+ 220-603 (Remote Support (1st edn, Wiley, John & Sons 2006)
+ (Priest, 2009)
 
-Emmett Dulaney, CompTIA A+: Complete Fast Pass ; [concise, focused, and affordable - the perfect study aid ; review what you need to know for all four ComTIA A+ Exams: CompTIA A+ 220-601(Essentials), CompTIA A+ 220-602 (IT Technician), CompTIA A+ 220-603 (Remote Support (1st edn, Wiley, John & Sons 2006)
+---
 
-Hitchins C and Hitchens C, The Portable Atheist: Essential Readings for the Non-Believer (Perseus Running [distributor] 2007)
+Barry, M. (2004) Jennifer Government. 1st edn. New York: Knopf Doubleday Publishing Group.
 
-Christopher Hitchins and Christopher Hitchens, The Portable Atheist: Essential Readings for the Non-Believer (Perseus Running [distributor] 2007)
+ (Barry, 2004)
 
-Books Read After March 2016 (Different Format)
+---
 
-Little Man, What Now? Hans Fallada (1933) March 18, 2016
-Great (movie idea?)
+Graedon, A. (2014) The Word Exchange: A Novel. United States: Doubleday Books.
 
-On Intelligence Jeff Hawkins (2004) March 22, 2016
+ (Graedon, 2014)
 
+---
 
+Bacigalupi, P. (2012) The drowned cities. 1st edn. New York: Little, Brown Books for Young Readers.
 
+ (Bacigalupi, 2012)
 
+---
+
+Anders, L. (2007) Fast Forward 1: Future Fiction from the Cutting Edge, Vol. 1. United States: Prometheus Books.
+
+ (Anders, 2007)
+
+---
+
+Van Gelder, G. (ed.) (2014) The Very Best of Fantasy & Science Fiction, Volume 2. United States: Tachyon Publications.
+
+ (Van Gelder, 2014)
+
+---
+
+Bacigalupi, P. (2014) The Doubt Factory. United States: Little, Brown & Company.
+
+ (Bacigalupi, 2014)
+
+---
+
+Bear, G. (2015) War Dogs. United States: Orbit.
+
+ (Bear, 2015)
+
+---
+
+Stirling, S.M. (2004) Dies the fire. New York: New American Library.
+
+ (Stirling, 2004)
+
+---
+
+Miéville, C. and Mieville, C. (2009) The City & The City. 1st edn. New York: Del Rey Ballantine Books.
+
+ (Miéville and Mieville, 2009)
+
+---
+
+Okorafor, N. (2011) Who Fears Death? United States: Penguin Group (USA).
+
+ (Okorafor, 2011)
+
+---
+
+Bacigalupi, P. (2013) Zombie Baseball Beatdown. United States: Little, Brown & Company.
+
+ (Bacigalupi, 2013)
+
+---
+
+Lee, C.-R. (2014) On Such a Full Sea. United States: Penguin Group (USA).
+
+ (Lee, 2014)
+
+---
+
+Scalzi, J. (2015) Lock in. United States: Thorndike Press.
+
+ (Scalzi, 2015)
+
+---
+
+Thomson, A. (1995) The color of distance. 1st edn. New York: Ace Books.
+
+ (Thomson, 1995)
+
+---
+
+Walton, J. (2006) Farthing. New York: Doherty, Tom Associates.
+
+ (Walton, 2006)
+
+---
+
+Constantine, S. (1993) Wraeththu (Wraeththu Series #1-3). United States: Doherty, Tom Associates.
+
+ (Constantine, 1993)
+
+---
+
+Strahan, J. (ed.) (2006) Science Fiction: The Very Best of 2005. United States: Locus Publications.
+
+ (Strahan, 2006)
+
+---
+
+Freeman, E.T. and Robson, E. (2014) Head First JavaScript programming. Available at: http://oreilly.com/go/9781449340131-QR (Accessed: 28 October 2015).
+
+ (Freeman and Robson, 2014)
+
+---
+
+Flanagan, D. (2011a) JavaScript: The definitive guide. Available at: http://oreilly.com/go/9780596805524-QR (Accessed: 9 November 2015).
+
+ (Flanagan, 2011)
+
+---
+
+Crockford, D. (2008) JavaScript: The good parts: Working with the shallow grain of JavaScript. 1st edn. United States: O’Reilly Media, Inc, USA.
+
+ (Crockford, 2008)
+
+---
+
+Bacigalupi, P., Buckell, T.S. and Drummond, J.K. (2011) The alchemist. 1st edn. United States: Subterranean Press.
+
+ (Bacigalupi, Buckell, and Drummond, 2011)
+
+---
+
+Taylor, K. and Smith, B.E. (2015) Getting a web development job for dummies. United States: John Wiley & Sons.
+
+ (Taylor and Smith, 2015)
+
+---
+
+Pollock, J. (2009) JavaScript, A beginner’s guide, Third edition. 3rd edn. New York: McGraw-Hill Companies, The.
+
+ (Pollock, 2009)
+
+  Note (pp. ): The best beginning book for js
+
+---
+
+Nixon, R. (2012) Web developer’s cookbook: More than 300 ready-made PHP, JavaScript, and CSS recipes. New York: Osborne/McGraw-Hill.
+
+ (Nixon, 2012)
+
+---
+
+Resig, J. and Bibeault, B. (2012) Secrets of the JavaScript Ninja. United States: Manning Publications Company.
+
+ (Resig and Bibeault, 2012)
+
+---
+
+Perry, G.M. (2000) HTML 4.01 weekend crash course (with CD-ROM). United States: Hungry Minds Inc,U.S.
+
+ (Perry, 2000)
+
+---
+
+Meloni, J.C. (2014) HTML, CSS, and JavaScript all in One, Sams teach yourself: Covering HTML5, CSS3, and jQuery. United States: Sams Publishing.
+
+ (Meloni, 2014)
+
+---
+
+Ballard, P. (2015) JavaScript in 24 hours, Sams teach yourself. United States: Sams Publishing.
+
+ (Ballard, 2015)
+
+---
+
+Freeman, E.T. and Robson, E. (2013) Head First JavaScript programming. United States: O’Reilly Media, Inc, USA.
+
+ (Freeman and Robson, 2013)
+
+---
+
+McPeak, J. (2010) JavaScript 24-Hour trainer. 1st edn. United States: Wiley, John & Sons.
+
+ (McPeak, 2010)
+
+---
+
+McPeak, J. (2015) Beginning JavaScript, 5th edition. United States: John Wiley & Sons.
+
+ (McPeak, 2015)
+
+---
+
+Farley, D. and Humble, J. (2010) Continuous delivery: Reliable software releases through build, test, and deployment automation. 1st edn. United States: Addison-Wesley Educational Publishers.
+
+ (Farley and Humble, 2010)
+
+---
+
+Holzner, S. (2009) Small business web sites made easy. 1st edn. New York: McGraw-Hill Companies, The.
+
+ (Holzner, 2009)
+
+---
+
+Kyrnin, J. (2014) Responsive web design in 24 hours, Sams teach yourself. United States: Sams Publishing.
+
+ (Kyrnin, 2014)
+
+---
+
+Harris, A. (2014) HTML, XHTML and CSS All-in-One for dummies. 3rd edn. United States: Wiley, John & Sons.
+
+ (Harris, 2014)
+
+---
+
+Davis, J. (2014) Spare parts: Four Undocumented teenagers, One ugly robot, and the battle for the American dream. 1st edn. United States: Farrar, Straus & Giroux.
+
+ (Davis, 2014)
+
+---
+
+Peterson, C. (2014) Learning responsive web design: A beginner’s guide. 1st edn. United States: O’Reilly Media, Inc, USA.
+
+ (Peterson, 2014)
+
+---
+
+McGrath, M. (2015) Coding for beginners in easy steps: Grasp the basics of programming. United Kingdom: In Easy Steps.
+
+ (McGrath, 2015)
+
+---
+
+Geary, D.H. (2014) Core HTML5 2D game programming. United States: Prentice Hall.
+
+ (Geary, 2014)
+
+---
+
+Bunyan, K. (2015) Build an HTML5 game: A developer’s guide with CSS3 and JavaScript. United States: No Starch Press,US.
+
+ (Bunyan, 2015)
+
+---
+
+Thomas, D. and Hunt, A. (2000) The pragmatic programmer: From Journeyman to master. Reading, MA: Addison-Wesley Educational Publishers.
+
+ (Thomas and Hunt, 2000)
+
+---
+
+Lief, J. and Thompson, A. (2015) I am because you are: How the spirit of Ubuntu inspired an unlikely friendship and transformed a community. United States: Rodale Press.
+
+ (Lief and Thompson, 2015)
+
+---
+
+Willard, W. (2013) HTML5 A beginners guide 5/E. 5th edn. United States: McGraw-Hill Professional Publishing.
+
+ (Willard, 2013)
+
+---
+
+Mueller, J.P. and Henderson, E. (2013) CSS3 for dummies. United States: John Wiley & Sons.
+
+ (Mueller and Henderson, 2013)
+
+---
+
+Minnick, C., Holland, E. and Abraham, N. (2015) Coding with JavaScript for dummies. United States: John Wiley & Sons.
+
+ (Minnick, Holland, and Abraham, 2015)
+
+---
+
+Flanagan, D. (2011b) JavaScript: The definitive guide: Activate your web pages. 6th edn. United States: O’Reilly Media, Inc, USA.
+
+ (Flanagan, 2011)
+
+---
+
+Mischook, S. (2015) Web design start here: A no-nonsense, jargon free guide to the fundamentals of web design. United States: How Books.
+
+ (Mischook, 2015)
+
+---
+
+Hofstadter, D. r. (1999) G.E.B.  (Godel, Escher, Bach: An eternal golden braid). perseus books.
+
+ (Hofstadter, 1999)
+
+---
+
+Keller, G. and Papasan, J. (2012) The ONE thing: The surprisingly simple truth behind extraordinary results. 1st edn. United States: Bard Press TX.
+
+ (Keller and Papasan, 2012)
+
+---
+
+Posamentier, A.S. and Lehmann, I. (2013) Magnificent mistakes in mathematics. United States: Prometheus Books.
+
+ (Posamentier and Lehmann, 2013)
+
+---
+
+Negus, C. (2015) Linux bible (revised). United States: John Wiley & Sons.
+
+ (Negus, 2015)
+
+---
+
+Ward, B. (2004) How Linux works: What every super user should know. San Francisco: No Starch Press,US.
+
+ (Ward, 2004)
+
+---
+
+Krug, S. (2013) Don’t make me think: A common sense approach to web usability. 3rd edn. United States: Pearson Education (US).
+
+ (Krug, 2013)
+
+---
+
+Nisan, N. and Schocken, S. (2008) The elements of computing systems: Building a modern computer from First principles (history of computing S.). Cambridge, MA: The MIT Press.
+
+ (Nisan and Schocken, 2008)
+
+---
+
+Wilson, M. (2012) Building Node applications with MongoDB and backbone. Available at: http://oreilly.com/go/9781449337391-QR (Accessed: 3 February 2016).
+
+ (Wilson, 2012)
+
+---
+
+Spivak, M. (1995) The hitchhiker’s guide to calculus: A calculus course companion. Washington, DC: Mathematical Association of America.
+
+ (Spivak, 1995)
+
+---
+
+Koenig, A. and Moo, B.E. (2000) Accelerated C++: Practical programming by example. 6th edn. Boston: Addison-Wesley Educational Publishers.
+
+ (Koenig and Moo, 2000)
+
+---
+
+Powers, S. (2015) JavaScript cookbook. United States: O’Reilly Media, Inc, USA.
+
+ (Powers, 2015)
+
+---
+
+McConnell, S.C. (2004) Code complete: [a practical handbook of software construction]. 2nd edn. United States: Microsoft Press,U.S.
+
+ (McConnell, 2004)
+
+---
+
+Gibson, W.F. (2008) Spook country. United States: Thorndike Press.
+
+ (Gibson, 2008)
+
+---
+
+Silberman, S. (2015) Neurotribes: The legacy of autism and the future of Neurodiversity. United States: Avery Publishing Group.
+
+ (Silberman, 2015)
+
+---
+
+Klein, N. (2007) The shock doctrine: The rise of disaster capitalism. New York: Metropolitan Books/Henry Holt.
+
+ (Klein, 2007)
+
+---
+
+Palahniuk, C. (2005) Fight club: A novel. New York: Norton, W. W. & Company.
+
+ (Palahniuk, 2005)
+
+---
+
+Gibson, W. (no date) Neuromancer. United States: Berkley Publishing Corporation,U.S.
+
+ (Gibson, no date)
+
+---
+
+Harvey, D. (2003) The new imperialism. New York: Oxford University Press.
+
+ (Harvey, 2003)
+
+---
+
+Gleick, J. (2011) The information: A history, a theory, a flood. New York: Knopf Doubleday Publishing Group.
+
+ (Gleick, 2011)
+
+---
+
+Haney-Lopez, I. and Haney-López, I. (2014) Dog whistle politics: How coded racial appeals have reinvented racism and wrecked the middle class. Oxford: Oxford University Press.
+
+ (Haney-Lopez and Haney-López, 2014)
+
+---
+
+Stephenson, N. (2000) Snow crash. New York: Bantam Doubleday Dell Publishing Group.
+
+ (Stephenson, 2000)
+
+---
+
+Shirky, C. (2008) Here comes everybody: The power of organizing without organizations. New York: Penguin Group (USA).
+
+ (Shirky, 2008)
+
+---
+
+vonnegut, jr., kurt (no date) player piano. .
+
+ (vonnegut, jr., no date)
+
+---
+
+Kurzweil, R. (2013) How to create a mind: The secret of human thought revealed. New York, NY: Penguin Books.
+
+ (Kurzweil, 2013)
+
+---
+
+Kurzweil, R. and Grossman, T. (2009) Transcend: Nine steps to living well forever. United States: Rodale Press.
+
+ (Kurzweil and Grossman, 2009)
+
+---
+
+Kurzweil, R. (2005) Singularity is near (the): When humans transcend biology. New York: Viking/Penguin Group.
+
+ (Kurzweil, 2005)
+
+---
+
+Kurzweil, R., Flier, S.R., Bauer, R. and Kurzweil, P. (1993) The Ten percent solution for a healthy life: How to eliminate virtually all risk of heart disease and cancer. New York: Crown Publications.
+
+ (Kurzweil et al., 1993)
+
+---
+
+Steffen, A., Bluestone, C., McKibben, B. and Inc, S. (2011) Worldchanging: A user’s guide for the 21st century. 2nd edn. New York: Abrams, Harry N.
+
+ (Steffen et al., 2011)
+
+---
+
+Steffen, A., Bluestone, C., McKibben, B. and Inc, S. (2011) Worldchanging: A user’s guide for the 21st century. 2nd edn. New York: Abrams, Harry N.
+
+ (Steffen et al., 2011)
+
+---
+
+Kurzweil, R. and Grossman, T. (2004) Fantastic voyage: Live long enough to live forever. United States: Rodale Books.
+
+ (Kurzweil and Grossman, 2004)
+
+---
+
+Kurzweil, R. and Grossman, T. (2004) Fantastic voyage: Live long enough to live forever. United States: Rodale Books.
+
+ (Kurzweil and Grossman, 2004)
+
+---
+
+Kurzweil, R. (2000) The age of spiritual machines: When computers exceed human intelligence. New York, NY: Penguin Group (USA).
+
+ (Kurzweil, 2000)
+
+---
+
+Marcus, G.F. (2008) Kluge: The haphazard construction of the human mind. Boston: Houghton Mifflin Harcourt.
+
+ (Marcus, 2008)
+
+---
+
+Cormen, T.H., Leiserson, C.E. and Rivest, R.L. (2001) Introduction to Algorithms. Cambridge, MA: McGraw-Hill.
+
+ (Cormen, Leiserson, and Rivest, 2001)
+
+---
+
+Cormen, T.H., Leiserson, C.E. and Rivest, R.L. (2001) Introduction to Algorithms. Cambridge, MA: McGraw-Hill.
+
+ (Cormen, Leiserson, and Rivest, 2001)
+
+---
+
+Osborne, M. and Lambert, K. (2002) Fundamentals of java: Comprehensive, Second edition. 2nd edn. United States: Course Technology.
+
+ (Osborne and Lambert, 2002)
+
+---
+
+Marcus, G.F. (2012) Guitar zero: The new musician and the science of learning. New York: Penguin Press HC, The.
+
+ (Marcus, 2012)
+
+---
+
+Marcus, G. (2004) The birth of the mind: How a tiny number of genes creates the complexities of human thought. New York: Basic Books.
+
+ (Marcus, 2004)
+
+---
+
+yeomans, W. (1985) 1000 things you never learned in business school. 2nd edn. London: mentor.
+
+ (yeomans, 1985)
+
+---
+
+Horowitz, P., Hill, W. and Horowitz, W.H. (1989) The art of electronics. 2nd edn. Cambridge: Cambridge University Press.
+
+ (Horowitz, Hill, and Horowitz, 1989)
+
+---
+
+Horowitz, P., Hill, W. and Horowitz, W.H. (1989) The art of electronics. 2nd edn. Cambridge: Cambridge University Press.
+
+ (Horowitz, Hill, and Horowitz, 1989)
+
+---
+
+Bradbury, R. (2012) Fahrenheit 451: A novel. New York: Simon & Schuster.
+
+ (Bradbury, 2012)
+
+---
+
+Mason, P. (2016) Post-capitalism: A guide to our future. United States: Farrar, Straus and Giroux.
+
+ (Mason, 2016)
+
+---
+
+Oakley, B. (2014) A mind for numbers: How to excel at math and science (even if you flunked algebra). United States: Penguin Group (USA).
+
+ (Oakley, 2014)
+
+---
+
+Domingos, P. (2015) The master algorithm: How the quest for the ultimate learning machine will remake our world. United States: Basic Civitas Books.
+
+ (Domingos, 2015)
+
+---
+
+Graeber, D. (2010) Debt: The first 5, 000 years. Brooklyn, New York, USA: Melville House Publishing.
+
+ (Graeber, 2010)
+
+---
+
+Dickinson, S. (2015) The traitor Baru Cormorant. United States: Tor Books.
+
+ (Dickinson, 2015)
+
+---
+
+pressfield, steven (2002) the war of art. new york: grand central.
+
+ (pressfield, 2002)
+
+---
+
+Barlow, M. (2015) Learning to Love Data science. Available at: http://www.oreilly.com/go/9781491936580-QR (Accessed: 28 April 2016).
+
+ (Barlow, 2015)
+
+---
+
+seifer, marc (1998) the life and times of nikola tesla: biography of a genius. 2nd edn. new york: citadel.
+
+ (seifer, 1998)
