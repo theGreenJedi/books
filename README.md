@@ -8,6 +8,220 @@ This list has gone through some style changes, depnding on whatever I software I
 
 # While I shudder at curating this list (making reports, notes, etc) If anyone has any interest in any of the following titles, hit me up, and I'll be glad to give my opinion of them.
 
+# LOST Reading list
+
+I came across a previous reading list I was compiling, and will add it here in the beginning
+
+# LOST List
+
+Bibliography
+
+Hitchins C and Hitchens C, The Portable Atheist: Essential Readings for the Non-Believer (Perseus Running [distributor] 2007)
+
+Bortolin M, The dharma of Star wars (1st edn, Wisdom Publications,U.S. 2005)
+
+Staub D, Faith of the Jedi: Lost Wisdom of the Ancient Masters (1st edn, Jossey-Bass Inc.,U.S. 2005)
+
+Lyden JC, 'Whose Film Is It, Anyway? Canonicity and Authority in Star Wars Fandom' (2012) 80(3) Journal of the American Academy of Religion <http://jaar.oxfordjournals.org/content/80/3/775.short> accessed 25 September 2015 775
+
+Zeek, The Art of Shen Ku: The Ultimate Traveler’s Guide of This Planet - The First Intergalactic Artform of the Entire Universe (1st edn, Penguin Group (USA) 2001)
+
+Yang J-M and Gutheil TG, The Root of Chinese Qigong: Secrets for Health, Longevity and Enlightenment (2nd edn, YMAA Publication Center 1997)
+
+Morris G and Glenn M, Shadow strategies of an American ninja master (Distributed to the book trade by Publisher’s Group West 1996)
+
+Morris GJ, Martial arts madness: light and dark in the esoteric martial arts (Distributed by North Atlantic Books 1999)
+
+Jwing-Ming Y, Yang J-M, and Murray A, Qigong for health and martial arts: exercises and meditation (2nd edn, YMAA Publication Center 1998)
+
+Dennett DC, Breaking the spell: religion as a natural phenomenon (Penguin Books 2006)
+
+hardcore zen
+
+Nagel GK, The Tao of teaching: the special meaning of the Tao Te Ching as related to the art and pleasures of teaching (Plume 1999)
+
+Hwa T and others, The tao of tai-chi chuan (or Tai ji quan in Pinyin): way to rejuvenation = [Tʻai chi chʻüan chih tao] (3rd edn, Charles E Tuttle Co 1998)
+
+monk habits for everyday people (2nd edn, brazos press 2008)
+
+Waite AE and Wait AE, The Real History of the Rosicrucians (Kessinger Publishing Co 1997)
+
+Waite AEE, Hermetic and Alchemical Writings of ‘Paracelsus’ the Great (Kessinger Publishing Co 1992)
+
+Waite AE, the Turba Philosophorum (Kessinger)
+
+Waite AE, the Unknown Philosopher (Rudolf Steiner 1970)
+
+Dulaney E, CompTIA A+: Complete Fast Pass ; [concise, focused, and affordable - the perfect study aid ; review what you need to know for all four ComTIA A+ Exams: CompTIA A+ 220-601(Essentials), CompTIA A+ 220-602 (IT Technician), CompTIA A+ 220-603 (Remote Support Technician), CompTIA A+ 220-604 (Depot Technician) ; practice with four bonus exams included on the CD] (1st edn, Wiley, John & Sons 2006)
+
+Cairns-Smith AG, Seven Clues to the Origin of Life (Cambridge University Press 1985)
+
+Cairns-Smith AG, The Life Puzzle (1971)
+
+McConnell SC, Code complete: [a practical handbook of software construction] (2nd edn, Microsoft Press,U.S. 2004)
+
+Powers S, JavaScript cookbook (O’Reilly Media, Inc, USA 2015)
+
+Spivak M, The hitchhiker’s guide to calculus (Mathematical Association of America 1995)
+
+Wilson M, Building Node applications with MongoDB and backbone: [rapid prototyping and scalable deployment] (O’Reilly Media, Inc, USA 2015)
+
+Citations, Quotes & Annotations
+
+Hitchins C and Hitchens C, The Portable Atheist: Essential Readings for the Non-Believer (Perseus Running [distributor] 2007)
+
+ Christopher Hitchins and Christopher Hitchens, The Portable Atheist: Essential Readings for the Non-Believer (Perseus Running [distributor] 2007)
+
+  "essential readings for the non-believer"
+
+---
+
+Bortolin M, The dharma of Star wars (1st edn, Wisdom Publications,U.S. 2005)
+
+ Matthew Bortolin, The dharma of Star wars (1st edn, Wisdom Publications,U.S. 2005)
+
+---
+
+Staub D, Faith of the Jedi: Lost Wisdom of the Ancient Masters (1st edn, Jossey-Bass Inc.,U.S. 2005)
+
+ Dick Staub, Faith of the Jedi: Lost Wisdom of the Ancient Masters (1st edn, Jossey-Bass Inc.,U.S. 2005)
+
+---
+
+Lyden JC, 'Whose Film Is It, Anyway? Canonicity and Authority in Star Wars Fandom' (2012) 80(3) Journal of the American Academy of Religion <http://jaar.oxfordjournals.org/content/80/3/775.short> accessed 25 September 2015 775
+
+ John C Lyden, 'Whose Film Is It, Anyway? Canonicity and Authority in Star Wars Fandom' (2012) 80(3) Journal of the American Academy of Religion <http://jaar.oxfordjournals.org/content/80/3/775.short> accessed 25 September 2015 775
+
+---
+
+Zeek, The Art of Shen Ku: The Ultimate Traveler’s Guide of This Planet - The First Intergalactic Artform of the Entire Universe (1st edn, Penguin Group (USA) 2001)
+
+ Zeek, The Art of Shen Ku: The Ultimate Traveler’s Guide of This Planet - The First Intergalactic Artform of the Entire Universe (1st edn, Penguin Group (USA) 2001)
+
+---
+
+Yang J-M and Gutheil TG, The Root of Chinese Qigong: Secrets for Health, Longevity and Enlightenment (2nd edn, YMAA Publication Center 1997)
+
+ Jwing-Ming Yang and Thomas G. Gutheil, The Root of Chinese Qigong: Secrets for Health, Longevity and Enlightenment (2nd edn, YMAA Publication Center 1997)
+
+---
+
+Morris G and Glenn M, Shadow strategies of an American ninja master (Distributed to the book trade by Publisher’s Group West 1996)
+
+ Glenn Morris and Morris Glenn, Shadow strategies of an American ninja master (Distributed to the book trade by Publisher’s Group West 1996)
+
+---
+
+Morris GJ, Martial arts madness: light and dark in the esoteric martial arts (Distributed by North Atlantic Books 1999)
+
+ Glenn J Morris, Martial arts madness: light and dark in the esoteric martial arts (Distributed by North Atlantic Books 1999)
+
+---
+
+Jwing-Ming Y, Yang J-M, and Murray A, Qigong for health and martial arts: exercises and meditation (2nd edn, YMAA Publication Center 1998)
+
+ Yang Jwing-Ming, Jwing-Ming Yang, and Andrew Murray, Qigong for health and martial arts: exercises and meditation (2nd edn, YMAA Publication Center 1998)
+
+---
+
+Dennett DC, Breaking the spell: religion as a natural phenomenon (Penguin Books 2006)
+
+ Daniel C. Dennett, Breaking the spell: religion as a natural phenomenon (Penguin Books 2006)
+
+---
+
+hardcore zen
+
+ hardcore zen
+
+---
+
+Nagel GK, The Tao of teaching: the special meaning of the Tao Te Ching as related to the art and pleasures of teaching (Plume 1999)
+
+ Greta K Nagel, The Tao of teaching: the special meaning of the Tao Te Ching as related to the art and pleasures of teaching (Plume 1999)
+
+---
+
+Hwa T and others, The tao of tai-chi chuan (or Tai ji quan in Pinyin): way to rejuvenation = [Tʻai chi chʻüan chih tao] (3rd edn, Charles E Tuttle Co 1998)
+
+ Tsung Hwa and others, The tao of tai-chi chuan (or Tai ji quan in Pinyin): way to rejuvenation = [Tʻai chi chʻüan chih tao] (3rd edn, Charles E Tuttle Co 1998)
+
+---
+
+monk habits for everyday people (2nd edn, brazos press 2008)
+
+ monk habits for everyday people (2nd edn, brazos press 2008)
+
+---
+
+Waite AE and Wait AE, The Real History of the Rosicrucians (Kessinger Publishing Co 1997)
+
+ Arthur Edward Waite and Arthur Edward Wait, The Real History of the Rosicrucians (Kessinger Publishing Co 1997)
+
+---
+
+Waite AEE, Hermetic and Alchemical Writings of ‘Paracelsus’ the Great (Kessinger Publishing Co 1992)
+
+ Arthur Edward E. Waite, Hermetic and Alchemical Writings of ‘Paracelsus’ the Great (Kessinger Publishing Co 1992)
+
+---
+
+Waite AE, the Turba Philosophorum (Kessinger)
+
+ Arthur Edward Waite, the Turba Philosophorum (Kessinger)
+
+---
+
+Waite AE, the Unknown Philosopher (Rudolf Steiner 1970)
+
+ Arthur Edward Waite, the Unknown Philosopher (Rudolf Steiner 1970)
+
+---
+
+Dulaney E, CompTIA A+: Complete Fast Pass ; [concise, focused, and affordable - the perfect study aid ; review what you need to know for all four ComTIA A+ Exams: CompTIA A+ 220-601(Essentials), CompTIA A+ 220-602 (IT Technician), CompTIA A+ 220-603 (Remote Support Technician), CompTIA A+ 220-604 (Depot Technician) ; practice with four bonus exams included on the CD] (1st edn, Wiley, John & Sons 2006)
+
+ Emmett Dulaney, CompTIA A+: Complete Fast Pass ; [concise, focused, and affordable - the perfect study aid ; review what you need to know for all four ComTIA A+ Exams: CompTIA A+ 220-601(Essentials), CompTIA A+ 220-602 (IT Technician), CompTIA A+ 220-603 (Remote Support Technician), CompTIA A+ 220-604 (Depot Technician) ; practice with four bonus exams included on the CD] (1st edn, Wiley, John & Sons 2006)
+
+---
+
+Cairns-Smith AG, Seven Clues to the Origin of Life (Cambridge University Press 1985)
+
+ A.G. Cairns-Smith, Seven Clues to the Origin of Life (Cambridge University Press 1985)
+
+---
+
+Cairns-Smith AG, The Life Puzzle (1971)
+
+ A.G. Cairns-Smith, The Life Puzzle (1971)
+
+---
+
+McConnell SC, Code complete: [a practical handbook of software construction] (2nd edn, Microsoft Press,U.S. 2004)
+
+ Steve C. McConnell, Code complete: [a practical handbook of software construction] (2nd edn, Microsoft Press,U.S. 2004)
+
+---
+
+Powers S, JavaScript cookbook (O’Reilly Media, Inc, USA 2015)
+
+ Shelly Powers, JavaScript cookbook (O’Reilly Media, Inc, USA 2015)
+
+---
+
+Spivak M, The hitchhiker’s guide to calculus (Mathematical Association of America 1995)
+
+ Michael Spivak, The hitchhiker’s guide to calculus (Mathematical Association of America 1995)
+
+---
+
+Wilson M, Building Node applications with MongoDB and backbone: [rapid prototyping and scalable deployment] (O’Reilly Media, Inc, USA 2015)
+
+ Mike Wilson, Building Node applications with MongoDB and backbone: [rapid prototyping and scalable deployment] (O’Reilly Media, Inc, USA 2015)
+
+---
+
+
+Bibliography
 
 Bacigalupi, P. (2009) The Windup Girl. 1st edn. San Francisco: Night Shade Books.
 
@@ -202,6 +416,12 @@ pressfield, steven (2002) the war of art. new york: grand central.
 Barlow, M. (2015) Learning to Love Data science. Available at: http://www.oreilly.com/go/9781491936580-QR (Accessed: 28 April 2016).
 
 seifer, marc (1998) the life and times of nikola tesla: biography of a genius. 2nd edn. new york: citadel.
+
+McDowell, G.L. (2011) Cracking the coding interview: 150 programming interview questions and solutions. 5th edn. Palo Alto, CA, USA: CarrerCup.
+
+Sweigart, A. (2015) Automate the boring stuff with python: Practical programming for total beginners. United States: No Starch Press,US.
+
+Greenblatt, S.J. (2011) The swerve: How the world became modern. New York: W W NORTON & CO.
 
 Citations, Quotes & Annotations
 
@@ -812,3 +1032,20 @@ Barlow, M. (2015) Learning to Love Data science. Available at: http://www.oreill
 seifer, marc (1998) the life and times of nikola tesla: biography of a genius. 2nd edn. new york: citadel.
 
  (seifer, 1998)
+
+---
+
+McDowell, G.L. (2011) Cracking the coding interview: 150 programming interview questions and solutions. 5th edn. Palo Alto, CA, USA: CarrerCup.
+
+ (McDowell, 2011)
+
+---
+
+Sweigart, A. (2015) Automate the boring stuff with python: Practical programming for total beginners. United States: No Starch Press,US.
+
+ (Sweigart, 2015)
+
+---
+
+Greenblatt, S.J. (2011) The swerve: How the world became modern. New York: W W NORTON & CO.
+
