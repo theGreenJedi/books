@@ -6,7 +6,7 @@ I initially started because I would end up ordering a book I had previously read
 ended up cutting into my reading time. (Sacrilege!) So they went by the wayside. I had got in the habit of recording books read though, and so I continue to do that. This current incarnation of this list began early 2015, thru the present.
 This list has gone through some style changes, depnding on whatever I software I use to record the titles. 
 
-# While I shudder at curating this list (making reports, notes, etc) If anyone has any interest in any of the following titles, hit me up, and I'll be glad to give me opinion of them.
+# While I shudder at curating this list (making reports, notes, etc) If anyone has any interest in any of the following titles, hit me up, and I'll be glad to give my opinion of them.
 
 
 Bacigalupi, P. (2009) The Windup Girl. 1st edn. San Francisco: Night Shade Books.
