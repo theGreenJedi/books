@@ -1047,4 +1047,7 @@ Wilson M, Building Node applications with MongoDB and backbone: [rapid prototypi
 
 ---
 
+I fell off the wagon for a while - Both in reading and record keeping
+But I am slowly getting back in the rhythym..I'll  start with my current titles -- (as of October 2016)
+
 
