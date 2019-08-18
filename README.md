@@ -1053,3 +1053,5 @@ But I am slowly getting back in the rhythym..I'll  start with my current titles 
 Update - May 2017
 
 Kim Gene, The Phoenix Project (IT Revolution Press 2013)
+
+https://books.google.com/books?id=Uv-uxB0sRKEC&printsec=frontcover&dq=qed+strange+theory+light+matter&hl=en&sa=X&ved=2ahUKEwj16O-DyYvkAhW0HzQIHfDZDF0Q6AEwAXoECAEQAg#v=onepage&q=qed%20strange%20theory%20light%20matter&f=false
