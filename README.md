@@ -14,6 +14,9 @@ I came across a previous reading list I was compiling, and will add it here in t
 
 # Books
 
+
+******* Latest readings ******
+
 Measure What Matters John Doerr
 
 NAked Statistics Charles Whelan
@@ -28,9 +31,14 @@ Artificial INtelligence Russel/Norvig
 
 Neural Networks from Scratch in Python Harrison Kinsley
 
+******* End Current (Not Biblio) Recent readings ************
+
+
 Bacigalupi, P. (2009) The Windup Girl. 1st edn. San Francisco: Night Shade Books.
 
 Bacigalupi, P. (2010) Ship Breaker. 1st edn. New York: Little, Brown & Company.
+
+Bacigalupi, P. Tool of War
 
 Adams, J.J. (ed.) (2015) Wastelands - Stories of the Apocalypse. United States: Titan Books (UK).
 
