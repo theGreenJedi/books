@@ -14,6 +14,20 @@ I came across a previous reading list I was compiling, and will add it here in t
 
 # Books
 
+Measure What Matters John Doerr
+
+NAked Statistics Charles Whelan
+
+100 page MAchine Learning Book Andriy Burkov
+
+Data SCience from SCratch Joel Grus
+
+Hands On Machi8ne Learning with SCiKit-Learn, Kears, and Tensorflow Geron
+
+Artificial INtelligence Russel/Norvig
+
+Neural Networks from Scratch in Python Harrison Kinsley
+
 Bacigalupi, P. (2009) The Windup Girl. 1st edn. San Francisco: Night Shade Books.
 
 Bacigalupi, P. (2010) Ship Breaker. 1st edn. New York: Little, Brown & Company.
