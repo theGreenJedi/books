@@ -31,6 +31,12 @@ Artificial INtelligence Russel/Norvig
 
 Neural Networks from Scratch in Python Harrison Kinsley
 
+Artificial INtelligence: A modern Approach Russel/Norvig
+
+grokking alogorithms - ADita Bhargava
+
+Confident Data Skills - Eremenko
+
 ******* End Current (Not Biblio) Recent readings ************
 
 
