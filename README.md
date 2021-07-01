@@ -17,6 +17,8 @@ I came across a previous reading list I was compiling, and will add it here in t
 
 ******* Latest readings ******
 
+***** 2021
+
 Measure What Matters John Doerr
 
 NAked Statistics Charles Whelan
