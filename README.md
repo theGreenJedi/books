@@ -39,6 +39,15 @@ grokking alogorithms - ADita Bhargava
 
 Confident Data Skills - Eremenko
 
+Python Crash Course 2nd ed. - Eric Matthes
+
+Practical Statistics for Data Scientists - Bruce, Bruce, Gedeck
+
+Learn More Python3 the Hard Way - Zed Shaw
+
+The Hitchhikers Guide to Python - Reitz & Schlusser
+
+
 ******* End Current (Not Biblio) Recent readings ************
 
 
