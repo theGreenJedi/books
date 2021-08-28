@@ -19,7 +19,22 @@ I came across a previous reading list I was compiling, and will add it here in t
 
 ***** 2021
 
+
 Measure What Matters John Doerr
+
+Fluent Python Luciano Ramahlo
+
+Learn More Python 3 the Hard Way Zed Shaw
+
+Serious Python Julien Danjou
+
+Deep Learning for Coders with fastai and PyTorch Howard & Gugger
+
+Effective Python 2nd ed. Brett Slatkin
+
+Automate the boring stuff with Python Al Sweitgart (9th?)
+
+Programming Python 4th ed/ Mark Lutz
 
 NAked Statistics Charles Whelan
 
