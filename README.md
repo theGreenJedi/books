@@ -20,7 +20,7 @@ I came across a previous reading list I was compiling, and will add it here in t
 ***** 2021
 
 
-Introduction to Machine Learningf with Python Andreas C. Muller & Sarah Guido
+Introduction to Machine Learning with Python Andreas C. Muller & Sarah Guido
 
 Machine Learning with Python for Everyone Mark E. Fenner
 
